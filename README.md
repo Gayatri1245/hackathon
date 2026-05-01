@@ -22,11 +22,6 @@ hackathon/
    - Double-click `index.html` to open it in your browser
    - Or drag the file into a web browser
 
-3. **Submit to Hackathon:**
-   - Zip the entire folder (index.html + style.css)
-   - Go to: https://devpost.com/submit-to/29885-hackspire-hackathon/manage/submissions
-   - Upload the zip file as your submission
-
 ## Features
 
 - ✅ Clean, modern responsive design
